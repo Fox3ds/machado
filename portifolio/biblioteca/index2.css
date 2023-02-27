@@ -1,0 +1,110 @@
+
+
+
+
+		body{
+			background-color: skyblue;
+			font-family: inicio, monospace;
+			text-align: justify;
+
+
+			/* alinhamento e tamanho*/
+			width: 85%;
+			margin: auto;
+
+
+		}
+
+		section{
+			background-color: lightcoral;
+			padding-right: 256px;
+			padding-left: 256px;
+			padding-bottom: 64px;
+			padding-top: 64px;
+			
+		}
+
+		p{
+
+			text-align: justify;
+			text-indent: 50px;
+
+		}	
+
+		h1, h4, h3{
+
+			text-align: center;
+
+		}
+
+
+
+
+		.inicio{
+			font-family: inicio, monospace;
+			background-color: blanchedalmond;
+			text-align: justify;
+			padding: 1%;
+			margin-bottom: 20px;
+			border-bottom-right-radius: 50px;
+			border-bottom-left-radius: 50px;
+
+		}
+
+		th{
+			background-color: lightpink;
+		}
+
+		td, th{
+
+
+			border-width: 3px;
+			border-style: solid;
+			border-color: blanchedalmond;
+
+			text-align: center;
+			padding: 8px;
+
+		}
+
+
+		a:link{
+			color: purple;
+		}
+		a:visited{
+			color: purple;
+		}
+		a:hover{
+			color: lightcoral;
+		}
+		a:active {
+
+			color: black;
+		}
+
+
+		img{
+
+			width:30%;
+			margin: auto;
+			display: block;
+			border-radius: 20px;
+			border-style: solid;
+		}
+
+		span{
+			color: purple;
+		}
+
+		.fontes{
+			background-color: lightpink;
+		}
+
+		#l1, #l2, #l3, #l4, #l5{
+
+			background-color: lightcoral;
+			
+
+		}
+
+
